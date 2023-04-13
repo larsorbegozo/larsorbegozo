@@ -3,14 +3,14 @@
 </div>
 <img src="https://i.imgur.com/yKqndtD.png">
 
+⬅️ My Social Media
+
 ## About me
 
 - Argentinian 🇦🇷
 - 2️⃣2️⃣ years old 
 - 📲 Android developer
 - Publishing my first apps 😲
-
-
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
