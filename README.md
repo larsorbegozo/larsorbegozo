@@ -3,8 +3,6 @@
 </div>
 <img src="https://i.imgur.com/yKqndtD.png">
 
-⬅️ My Social Media
-
 ## About me
 
 - Argentinian 🇦🇷
