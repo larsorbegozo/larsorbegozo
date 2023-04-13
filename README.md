@@ -7,8 +7,10 @@
 
 - Argentinian 🇦🇷
 - 2️⃣2️⃣ years old 
-- 📲 Android developer
+- 📲 Android developer, but, always learning new things!
 - Publishing my first apps 😲
+- 🔭 I’m currently working on [Habbyt](https://github.com/larsorbegozo/habbyt)
+
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
@@ -16,17 +18,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LarsOrbegozo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
-**larsorbegozo/larsorbegozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
