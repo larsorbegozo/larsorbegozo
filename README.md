@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi! I'm Lars 👋</h1>
-</div>
-
+  
 ## About me
 
 - Argentina 🇦🇷
